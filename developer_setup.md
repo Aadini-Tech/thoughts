@@ -5,6 +5,9 @@
 - it would take sometime time install
 - enter username and password when prompted
 
+Note: WSL was hanging due to the recent window update. Based on the suggestion in one of blog post, I have uninstalled a recent windows update.
+I hope there won't further problem with my WSL setup.
+
 ## Linux env setup
 - update and upgrade linux - sudo apt-get update; sudo apt-get upgrade
 - install zsh - sudo apt-get install zsh
