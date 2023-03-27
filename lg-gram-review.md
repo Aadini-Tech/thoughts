@@ -73,6 +73,3 @@ So I like the 16:10 aspect ratio and a high-resolution screen on Mac. I wanted a
 - installed WSL 2 - ubuntu
 - installed VS code
 
-
-
-    
