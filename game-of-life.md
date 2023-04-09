@@ -17,3 +17,26 @@ As a procastination, I was delaying the app building.
 - I could access the PC from my office provide macbook pro. 
 - It was nice, but I was always distracted by the open office work items.
 - also there were acidental alt tabs which switches the Mac app.
+
+### The process
+As a poor software engineer, I tried to follow some process:
+### requirement
+- There should a way to add goals/projects with value and time line. SMART :)
+- Any task should be assicated to a project
+- Value of the task is derived from the projects value
+- There should a dashboard to display the progress with graphs and charts
+- completing a task will increase my score. adds to the projects progress.
+
+### choosing the framework
+As engineer with experience only in building backend service, I have little exposer to frontend.
+I also has resitance to learn JS. I wanted a framework which covers both frontend and backend.
+I has some experience using Angular framework. I have also tried svelte. However both are frontend only frameworks.
+So I was exploring next.js - it was promissing with lot of community support. 
+Later I found pynecone, which is python only framework, which intenrnally uses nextjs.
+I also tried flet which flutter wiht python.
+
+### development
+As a poor software engineer, I started the game-of-life app without much design - with pynecone.
+I was facing frictions developing the app in PC with remote desktop. Later I bought an brand new lg-gram laptop.
+
+
