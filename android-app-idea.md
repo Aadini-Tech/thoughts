@@ -13,3 +13,14 @@
  - google lens - scan and add tasks 
  - track office time based on work profile on/off; teams/slack/outlook activity.
  -   time spent on call
+Seperate section for routine one minute tasks; daily move the applicable tasks to today's menu
+- Paying bills 
+-   Monthly - Rent, Karate fee, citicc, icici cc, airtel bb bill, airtel postpaid bill, bigbasket recharge
+-   Bi monthly - eb bill
+-   quarterly - lic premium 613, lic premium 3912
+-   anual - birla sunlife, lic term ins, car insurance,scooter insurance, mdu prop taxes, thanya enclave prop taxes
+
+Routine task enums
+   - DAILY - workout, wordle, journal
+   - WEEKDAY - pickup/drop kids at school
+   - Monthly
