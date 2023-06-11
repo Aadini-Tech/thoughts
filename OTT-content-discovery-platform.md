@@ -4,9 +4,10 @@ We have countless number of OTT platforms to watch content. There is NO easy way
 There are TV apps which do aggregate the content across multiple platforms. There is no standard way of sharing the content's rating/liking with friends and family.
 Today people share or ask on Twitter/Facebook about OTT content.
   - What movie/web series to watch?
-  - How is the X movie release on Y platform? is it work watching?
+  - How is the X movie release on Y platform? is it worth watching?
   - Where can I watch X movie?
-
+  - Where can I get suggessions from my peers / family members?
+  
 Paarv.ai app is built to address the following problems:
 - Search for content with natural languge with multiple filters (content language, OTT platform, average user rating, genre etc)
 - Option to mark a content as 'watched' , 'like/dislike'
