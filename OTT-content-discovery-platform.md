@@ -39,4 +39,4 @@ We have countless OTT platforms to watch content. There is NO easy way to share 
 - Post comments only to my friends or public
 
 ## Monetizing the idea
-Ads and promoted content from the content creators
+Ads and promoted content from the content creators/producers
