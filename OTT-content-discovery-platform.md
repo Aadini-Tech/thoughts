@@ -14,18 +14,20 @@ Paarv.ai app is built to address the following problems:
 - Option to 'rate', comment on a content
 - Recommend a content to friends
 - Read comments/reviews given by the friends
-- Find - what our fiends have watched and liked.
+- Find - what our friends have watched and liked.
 - Find the hidden gems in vast OTT ocean
 
 
 ## User interface(Web)
 - Login/Signup
 - Home Page (Tabs - Movies, web series, reality shows, Sports, songs, documentaries, news/reviews)
-- Search result 
+- Search result page 
 - Content details page 
 - Watch list
 - User Profile page
 - Voice search
+- My reviews
+
 
 
 ### Content details page
@@ -36,8 +38,8 @@ Paarv.ai app is built to address the following problems:
 - Content quality (HD, FHD, 4KD, Dolbyatoms, DolbyVision etc)
 - Average user rating
 - Who from our fiends list watched/liked/recommended
-- Comments section - Frieds comments are listed first.
-- 
+- Comments section - Friends comments are listed first.
+- Post comments only to my friends or public
 
 ## Monitizing the idea
 - Ads and promoted content from the content creators
